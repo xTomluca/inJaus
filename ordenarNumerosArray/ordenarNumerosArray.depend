@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523850723 source:e:\documentos varios\github\tarea\ordenarnumerosarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

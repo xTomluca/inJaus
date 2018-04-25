@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523422812 source:e:\documentos varios\github\tarea\injaus\intentotp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"funciones.h"
+
+1523422505 e:\documentos varios\github\tarea\injaus\intentotp\funciones.h
+	<limits.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524020897 source:e:\documentos varios\github\tarea\practicastring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
